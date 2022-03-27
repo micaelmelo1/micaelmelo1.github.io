@@ -203,8 +203,7 @@ section .title::after{
     display: flex;
     background-color: black;
     color: #fff;
-    background-image: url("img/fundo1.jpg") ;
-    background-repeat: no-repeat;
+
     font-family: sans-serif;
 }
 .home .max-width{
