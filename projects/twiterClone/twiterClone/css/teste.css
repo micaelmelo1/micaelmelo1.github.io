@@ -1,0 +1,39 @@
+.navbar-header img{
+    width: 45px;
+    margin-top: 2px;
+}
+
+.formulario {
+    /* margin-top: 50px; */
+    position: absolute;
+    top: 170px;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(248, 248, 248);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(65, 65, 65, 0.6);
+    border-radius: 10px;
+}
+
+.formulario .group{
+    background: rgba(248, 248, 248, 0.5);
+}
+
+.container .jumbotron {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 510px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(248, 248, 248);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(65, 65, 65, 0.6);
+    border-radius: 15px;
+}
+nav .navbar-header{
+margin-top: 2px;
+}
+
