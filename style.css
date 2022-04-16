@@ -298,6 +298,9 @@ section .title::after {
 }
 
 /* About */
+.about .title::after {
+  content: "eu sou ";
+}
 
 .about .about-content .left {
   width: 45%;
