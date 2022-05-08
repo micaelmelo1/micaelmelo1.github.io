@@ -43,7 +43,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["Devenvolvedor Back-end", "Júnior", "Freelancers"],
+    strings: ["Desenvolvedor Back-end", "Júnior", "Freelancer"],
     typeSpeed: 100,
     cursorChar: "",
     backSpeed: 60,
